@@ -1,0 +1,1 @@
+console.log("Scrabble GO Shares site loaded successfully.");
